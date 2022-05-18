@@ -1,10 +1,11 @@
 {
-  "name": "demo",
+  "name": "chess-board",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "build": "tsc",
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "board": "node board.js"
   },
   "keywords": [],
   "author": "",
